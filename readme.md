@@ -2,10 +2,12 @@
 
 > A tiny (1.01 kB) and [fast](#benchmarks) utility to walk an AST without being led astray.
 
+*This is a fork enabling Typescript ESTree types*
+
 ## Install
 
 ```
-$ npm install --save astray
+$ npm install --save dflynn15/astray
 ```
 
 
